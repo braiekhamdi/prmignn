@@ -1,7 +1,7 @@
 
-# PI-MF-GNN: A Physics-Informed Multi-Fidelity Graph Neural Network
+# PR-MF-GNN: A Physics-Informed Multi-Fidelity Graph Neural Network
 
-**Author:** Hamdi Braiek  
+**Authors:** Hamdi Braiek and Anis Bel Hadj Hassin 
 **Repository:** [braiekhamdi/prmignn](https://github.com/braiekhamdi/prmignn)
 
 ## 📖 Overview
@@ -131,6 +131,6 @@ If you use this code or build upon this work, please cite the paper:
 ```bibtex
 @article{braiek2026prmfgnn,
   title={{PR-MF-GNN}: Physics-Regularized Multi-Fidelity Graph Neural Networks for Surrogate Modeling under High-Fidelity Data Scarcity},
-  author={Braiek, Hamdi},
+  author={Braiek, Hamdi and Bel Hadj Hassin, Anis},
   year={2026}
 }
